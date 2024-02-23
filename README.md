@@ -1,2 +1,2 @@
 # Deployment-Repo
-This repo contains `.py` files for deployment. Is this the rewl life? Is this just fantasy?
+This repo contains `.py` files for deployment. Is this the real life? Is this just fantasy?
